@@ -4,6 +4,11 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ferhat-metin/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ferhatmetin34)
 
+### Interests
+![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/datascience.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/ai.svg)
+
 
 ### Blogs
 #### **datasciencearth.com** - **[Data Science Earth]( https://www.datasciencearth.com/en)**
