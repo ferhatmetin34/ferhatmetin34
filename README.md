@@ -1,4 +1,4 @@
-## I'm Ferhat Metin 
+## Hello! I'm Ferhat Metin 😄
 
 ### Social Media Accounts  💬
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ferhat-metin/)
