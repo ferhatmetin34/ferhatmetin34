@@ -4,10 +4,6 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ferhat-metin/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ferhatmetin34)
 
- <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-
 
 ### Blogs
 #### **datasciencearth.com** - **[Data Science Earth]( https://www.datasciencearth.com/en)**
