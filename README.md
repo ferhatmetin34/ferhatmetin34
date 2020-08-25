@@ -17,6 +17,8 @@
 * **[Genetic Algorithm - I]( https://www.datasciencearth.com/en/genetic-algorithm-1/)**
 * **[Genetic Algorithm - II : Implementation with R]( https://www.datasciencearth.com/en/genetic-algorithm-ii-implementation-with-r//)**
 * **[Local Outlier Factor](https://www.datasciencearth.com/en/local-outlier-factor-2/)**
+* **[Working with Dates Using Pandas](https://www.datasciencearth.com/en/working-with-date-using-pandas/)**
+
 
 <!--
 **ferhatmetin34/ferhatmetin34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
