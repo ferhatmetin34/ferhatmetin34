@@ -25,7 +25,7 @@
 * **[Working with Dates Using Pandas](https://www.datasciencearth.com/en/working-with-date-using-pandas/)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatmetin34&show_icons=true" alt="ferhatmetin34" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatmetin34" alt="ferhatmetin34" /> </p>
+
 <!--
 **ferhatmetin34/ferhatmetin34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
