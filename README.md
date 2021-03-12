@@ -17,12 +17,12 @@
 
 ### Blogs
 #### **datasciencearth.com** - **[Data Science Earth]( https://www.datasciencearth.com/en)**
-* **[Symbolic Mathematics Operations with Sympy]( https://www.datasciencearth.com/en/symbolic-mathematics-operations-with-sympy/)**
-* **[Map Visualization with Folium]( https://www.datasciencearth.com/en/map-visualization-with-folium/)**
-* **[Genetic Algorithm - I]( https://www.datasciencearth.com/en/genetic-algorithm-1/)**
+* **[Symbolic Mathematics Operations with Sympy]( https://medium.com/datasciencearth/what-is-sympy-cb9977b64871)**
+* **[Map Visualization with Folium](https://medium.com/datasciencearth/map-visualization-with-folium-d1403771717)**
+* **[Genetic Algorithm - I](https://medium.com/datasciencearth/genetic-algorithm-1-e52073005529)**
 * **[Genetic Algorithm - II : Implementation with R]( https://www.datasciencearth.com/en/genetic-algorithm-ii-implementation-with-r//)**
-* **[Local Outlier Factor](https://www.datasciencearth.com/en/local-outlier-factor-2/)**
-* **[Working with Dates Using Pandas](https://www.datasciencearth.com/en/working-with-date-using-pandas/)**
+* **[Local Outlier Factor](https://medium.com/datasciencearth/local-outlier-factor-7821b5651bc5)**
+* **[Working with Dates Using Pandas](https://medium.com/datasciencearth/working-with-date-using-pandas-9884c6f80525)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatmetin34&show_icons=true" alt="ferhatmetin34" /></p>
 
