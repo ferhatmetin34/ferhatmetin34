@@ -14,6 +14,7 @@
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/datascience.svg)
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/ai.svg)
 
+- 🌱 I’m currently learning **Computer Vision, NLP, Julia,Deployment...**
 
 ### Blogs
 #### **datasciencearth.com** - **[Data Science Earth]( https://www.datasciencearth.com/en)**
@@ -25,6 +26,8 @@
 * **[Working with Dates Using Pandas](https://medium.com/datasciencearth/working-with-date-using-pandas-9884c6f80525)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatmetin34&show_icons=true" alt="ferhatmetin34" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatmetin34&layout=compact)](https://github.com/ferhatmetin34/github-readme-stats)
 
 <!--
 **ferhatmetin34/ferhatmetin34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
