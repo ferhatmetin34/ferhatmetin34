@@ -21,7 +21,6 @@
 * **[Symbolic Mathematics Operations with Sympy]( https://medium.com/datasciencearth/what-is-sympy-cb9977b64871)**
 * **[Map Visualization with Folium](https://medium.com/datasciencearth/map-visualization-with-folium-d1403771717)**
 * **[Genetic Algorithm - I](https://medium.com/datasciencearth/genetic-algorithm-1-e52073005529)**
-* **[Genetic Algorithm - II : Implementation with R]( https://www.datasciencearth.com/en/genetic-algorithm-ii-implementation-with-r//)**
 * **[Local Outlier Factor](https://medium.com/datasciencearth/local-outlier-factor-7821b5651bc5)**
 * **[Working with Dates Using Pandas](https://medium.com/datasciencearth/working-with-date-using-pandas-9884c6f80525)**
 
