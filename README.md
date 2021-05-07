@@ -10,11 +10,12 @@
 </p>
 
 ### Interests
-![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)
+
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/datascience.svg)
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/ai.svg)
 
 - 🌱 I’m currently learning **Computer Vision, NLP, Julia,Deployment...**
+
 
 ### Blogs
 #### **datasciencearth.com** - **[Data Science Earth]( https://www.datasciencearth.com/en)**
@@ -24,9 +25,12 @@
 * **[Local Outlier Factor](https://medium.com/datasciencearth/local-outlier-factor-7821b5651bc5)**
 * **[Working with Dates Using Pandas](https://medium.com/datasciencearth/working-with-date-using-pandas-9884c6f80525)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatmetin34&show_icons=true" alt="ferhatmetin34" /></p>
+![Stats](https://github-readme-stats.vercel.app/api/?username=ferhatmetin34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatmetin34&layout=compact)](https://github.com/ferhatmetin34/github-readme-stats)
+
+
+
 
 <!--
 **ferhatmetin34/ferhatmetin34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
