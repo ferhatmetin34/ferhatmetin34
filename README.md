@@ -10,11 +10,8 @@
 </p>
 
 ### Interests
+⚡Data Science, Machine Learning, Statistics, Deployment, Computer Vision, NLP...
 
-![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/datascience.svg)
-![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/ai.svg)
-
-- 🌱 I’m currently learning **Computer Vision, NLP, Julia,Deployment...**
 
 
 ### Blogs
