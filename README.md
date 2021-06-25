@@ -2,8 +2,6 @@
 
 
 ### Social Media Accounts 
-
-<a href="https://twitter.com/ferhat34metin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ferhat34metin" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ferhat-metin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ferhat-metin" height="30" width="30" /></a>
 <a href="https://kaggle.com/ferhatmetin34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ferhatmetin34" height="30" width="30" /></a>
 <a href="https://medium.com/@ferhatmetin34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ferhatmetin34" height="30" width="30" /></a>
