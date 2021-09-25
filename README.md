@@ -16,6 +16,7 @@
 * **[Genetic Algorithm - I](https://medium.com/datasciencearth/genetic-algorithm-1-e52073005529)**
 * **[Local Outlier Factor](https://medium.com/datasciencearth/local-outlier-factor-7821b5651bc5)**
 * **[Working with Dates Using Pandas](https://medium.com/datasciencearth/working-with-date-using-pandas-9884c6f80525)**
+* **[20 Useful Python Libraries for Data Science Projects](https://medium.com/datasciencearth/20-useful-python-libraries-for-data-science-projects-f393faad4419)**
 
 ![Stats](https://github-readme-stats.vercel.app/api/?username=ferhatmetin34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
