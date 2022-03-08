@@ -9,15 +9,6 @@
 
 
 
-### Blogs
-#### **datasciencearth.com** - **[Data Science Earth]( https://www.datasciencearth.com/en)**
-* **[Symbolic Mathematics Operations with Sympy]( https://medium.com/datasciencearth/what-is-sympy-cb9977b64871)**
-* **[Map Visualization with Folium](https://medium.com/datasciencearth/map-visualization-with-folium-d1403771717)**
-* **[Genetic Algorithm - I](https://medium.com/datasciencearth/genetic-algorithm-1-e52073005529)**
-* **[Local Outlier Factor](https://medium.com/datasciencearth/local-outlier-factor-7821b5651bc5)**
-* **[Working with Dates Using Pandas](https://medium.com/datasciencearth/working-with-date-using-pandas-9884c6f80525)**
-* **[20 Useful Python Libraries for Data Science Projects](https://medium.com/datasciencearth/20-useful-python-libraries-for-data-science-projects-f393faad4419)**
-
 ![Stats](https://github-readme-stats.vercel.app/api/?username=ferhatmetin34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatmetin34&layout=compact)](https://github.com/ferhatmetin34/github-readme-stats)
